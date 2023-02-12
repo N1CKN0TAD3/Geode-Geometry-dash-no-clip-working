@@ -1,3 +1,5 @@
-# Template
+# No clip (NOT DONE)
 
-This is where she makes a mod.
+Put this in the geode mods folder.
+simple as that.
+keybind for no clipping can be set to whatever you want.
